@@ -1,1 +1,1 @@
-Sample App.js file
+Sample App.js file.
